@@ -1,48 +1,36 @@
-<img align="left" width="250" height="180" alt="Code gif" src="https://raw.githubusercontent.com/FaruNL/FaruNL/master/code.gif?raw=true" width="600" height="400" />
+# <p align="center"> Hi 👋 </p>
 
-### I'm **Farid Nogales**
+### <p align="center"> 👨🏻‍💻 &nbsp;About Me </p>
 
-A student of Instituto Tecnológico de Oaxaca and aspiring web and game developer. I love technology, videogames & biking ✌️
+<div align="center"><img src="https://www.al-fahad.biz/wp-content/uploads/2020/11/website-development-2.png" alt="web" width="300"></div>
 
-<a href="https://twitter.com/FaruNL">
-  <img align="left" alt="Farid Nogales | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Farid Nogales | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://steamcommunity.com/id/faru_nl/">
-  <img align="left" alt="Farid Nogales | Steam" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
-</a>
+<p align="center">I'm a <strong>web developer</strong></p>
 
-<img src="https://gpvc.arturio.dev/FaruNL" alt="profile views">
+---
 
-</br>
+<div style="display: flex; gap: 50%; justify-content: center">
+<div>
+<h3 align="center"> 🛠 &nbsp;Tech Stack </h3>
 
-### I'm currently
-
-- 👨‍💻 Building the foundation for a programming resources website.
-
-### I'm learning
-
-<p align="center"> 
-  <a href="https://www.php.net" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="dart" height="40"/> </a>
-  <a href="https://laravel.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="flutter" height="40"/> </a> 
-  <a href="https://tailwindcss.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="git" height="40"/> </a>
-  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="mysql" height="40"/> </a>
-  <a href="https://www.mysql.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="40"/> </a>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,alpinejs,php,laravel,mysql,tailwind,linux,docker&perline=3" alt="tech stack">
 </p>
+</div>
 
-<!--
-**FaruNL/FaruNL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<h3 align="center"> 🌱 &nbsp;Learning </h3>
 
-Here are some ideas to get you started:
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,redux,graphql,mongodb,webpack,svelte&perline=3" alt="learning">
+</p>
+</div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### <p align="center"> 🏆 &nbsp;GitHub Stats </p>
+
+<div style="display: flex; gap: 5px; justify-content: center">
+    <img src="https://github-readme-stats.vercel.app/api?username=FaruNL&show_icons=true&theme=dracula" alt="GH Stats" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaruNL&layout=compact&theme=dracula&hide=c,c%2B%2B,assembly" alt="GH Stats" width="45%">
+</div>
